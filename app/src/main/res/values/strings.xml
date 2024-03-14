@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="username">Sok Sao</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="add_to_story">+ Add to Story</string>
+    <string name="student">Student</string>
+    <string name="at_royal_university_of_phonm_penh">at Royal University of Phonm Penh</string>
+</resources>
